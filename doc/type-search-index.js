@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.iuh.fit.exer2","l":"Rectangle"},{"p":"edu.iuh.fit.exer2","l":"TestRectangle"}];updateSearchResults();
